@@ -1,1 +1,1 @@
-# COGS118B
+# COGS118B_Project
