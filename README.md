@@ -7,7 +7,7 @@ In this project, we explored how principal components in CLIP embeddings relate 
 **My Contributions:**
   - Collaborated with teammates during project work sessions to perform PCA analysis on CLIP embeddings
   - Refined the research hypothesis to focus on the relationship between principal components and background information
-  - Collaborated with teammates to develop a visualization illustrating how classification accuracy changes as components are removed
+  - Collaborated to develop a visualization illustrating how classification accuracy changes as components are removed
 
 **Results:** We found that removing principal components affects classification performance differently across bird species. Removing the top 3 PCs had no impact on accuracy, which suggests those components mostly capture background information irrelevant to classification. There is a spot around the 4th PC where dimensionality reduction is most beneficial, and some bird species proved easier to classify than others. Given more time, we would have explored alternative methods beyond PCA and experiment with removing additional components to better understand their effect on classification.
 
