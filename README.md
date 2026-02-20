@@ -14,7 +14,7 @@ In this project, we explored how principal components in CLIP embeddings relate 
 ## Project Notebook
 You can view the full analysis here:
 
-[View Full Notebook](118bcode_3_py.html)
+[View Full Notebook](118bcode_3.py)
 
 
 
